@@ -41,15 +41,19 @@ It's common knowledge that companies continue to digitalize their data. Business
 -- 3. CERTIFICATES OF COMPLETION --
 <img width="2339" height="1654" alt="Anastasya Pratiwi_Database - SQL Track-1" src="https://github.com/user-attachments/assets/fefeeacf-3d8b-4d32-ad44-6817a40399ce" />
 
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Fundamental SQL Using SELECT Statement-1" src="https://github.com/user-attachments/assets/fea55971-23c9-45b4-8fa1-bb4ee788eb9c" />
 
-1. [Anastasya Pratiwi_Database - SQL Track.pdf](https://github.com/user-attachments/files/29105240/Anastasya.Pratiwi_Database.-.SQL.Track.pdf)
-2. [Anastasya Pratiwi_Fundamental SQL Using SELECT Statement.pdf](https://github.com/user-attachments/files/29105318/Anastasya.Pratiwi_Fundamental.SQL.Using.SELECT.Statement.pdf)
-3. [Anastasya Pratiwi_Mengolah Data Teks Unstructured dengan REGEX pada SQL.pdf](https://github.com/user-attachments/files/29105321/Anastasya.Pratiwi_Mengolah.Data.Teks.Unstructured.dengan.REGEX.pada.SQL.pdf)
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Mengolah Data Teks Unstructured dengan REGEX pada SQL-1" src="https://github.com/user-attachments/assets/0b9f980b-5726-47f5-961c-86acf74e82b9" />
+
+<img width="2339" height="1654" alt="Anastasya Pratiwi_SQL Database Management-1" src="https://github.com/user-attachments/assets/51608624-e1c7-42c0-8adf-2ecb236dadc2" />
+
+
 4. [Anastasya Pratiwi_SQL Database Management.pdf](https://github.com/user-attachments/files/29105340/Anastasya.Pratiwi_SQL.Database.Management.pdf)
 5. [Anastasya Pratiwi_Fundamental SQL Using FUNCTION and GROUP BY.pdf](https://github.com/user-attachments/files/29105364/Anastasya.Pratiwi_Fundamental.SQL.Using.FUNCTION.and.GROUP.BY.pdf)
-6. [Anastasya Pratiwi_Fundamental SQL Using INNER JOIN and UNION.pdf](https://github.com/user-attachments/files/29105373/Anastasya.Pratiwi_Fundamental.SQL.Using.INNER.JOIN.and.UNION.pdf)
-7. [Anastasya Pratiwi_Fundamental SQL Group By and Having.pdf](https://github.com/user-attachments/files/29105392/Anastasya.Pratiwi_Fundamental.SQL.Group.By.and.Having.pdf)
-8. [Anastasya Pratiwi_Mengolah Data Teks Dasar pada MySQL.pdf](https://github.com/user-attachments/files/29105717/Anastasya.Pratiwi_Mengolah.Data.Teks.Dasar.pada.MySQL.pdf)
+7. [Anastasya Pratiwi_Fundamental SQL Using INNER JOIN and UNION.pdf](https://github.com/user-attachments/files/29105373/Anastasya.Pratiwi_Fundamental.SQL.Using.INNER.JOIN.and.UNION.pdf)
+   
+9. [Anastasya Pratiwi_Fundamental SQL Group By and Having.pdf](https://github.com/user-attachments/files/29105392/Anastasya.Pratiwi_Fundamental.SQL.Group.By.and.Having.pdf)
+10. [Anastasya Pratiwi_Mengolah Data Teks Dasar pada MySQL.pdf](https://github.com/user-attachments/files/29105717/Anastasya.Pratiwi_Mengolah.Data.Teks.Dasar.pada.MySQL.pdf)
 
 
 -- 4. CONTACT --
