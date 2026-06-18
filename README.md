@@ -5,7 +5,7 @@ This overview contains:
 1. INTRODUCTION
 2. WHY SQL?
 3. CERTIFICATES OF COMPLETION
-4. MY SOCIALS
+4. CONTACT
 
 -- 1. INTRODUCTION --
 
@@ -36,6 +36,15 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 -- 3. CERTIFICATES OF COMPLETION --
 1. [Anastasya Pratiwi_Database - SQL Track.pdf](https://github.com/user-attachments/files/29105240/Anastasya.Pratiwi_Database.-.SQL.Track.pdf)
+2. [Anastasya Pratiwi_Fundamental SQL Using SELECT Statement.pdf](https://github.com/user-attachments/files/29105318/Anastasya.Pratiwi_Fundamental.SQL.Using.SELECT.Statement.pdf)
+3. [Anastasya Pratiwi_Mengolah Data Teks Unstructured dengan REGEX pada SQL.pdf](https://github.com/user-attachments/files/29105321/Anastasya.Pratiwi_Mengolah.Data.Teks.Unstructured.dengan.REGEX.pada.SQL.pdf)
+4. [Anastasya Pratiwi_SQL Database Management.pdf](https://github.com/user-attachments/files/29105340/Anastasya.Pratiwi_SQL.Database.Management.pdf)
+5. [Anastasya Pratiwi_Fundamental SQL Using FUNCTION and GROUP BY.pdf](https://github.com/user-attachments/files/29105364/Anastasya.Pratiwi_Fundamental.SQL.Using.FUNCTION.and.GROUP.BY.pdf)
+6. [Anastasya Pratiwi_Fundamental SQL Using INNER JOIN and UNION.pdf](https://github.com/user-attachments/files/29105373/Anastasya.Pratiwi_Fundamental.SQL.Using.INNER.JOIN.and.UNION.pdf)
+7. [Anastasya Pratiwi_Fundamental SQL Group By and Having.pdf](https://github.com/user-attachments/files/29105392/Anastasya.Pratiwi_Fundamental.SQL.Group.By.and.Having.pdf)
+8. [Anastasya Pratiwi_Mengolah Data Teks Unstructured dengan REGEX pada SQL.pdf](https://github.com/user-attachments/files/29105404/Anastasya.Pratiwi_Mengolah.Data.Teks.Unstructured.dengan.REGEX.pada.SQL.pdf)
 
 
--- 4. MY SOCIALS --
+-- 4. CONTACT --
+[![Email](https://shields.io)](mailto:anastasyapratiwi.work@egmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/anastasyapratiwi/)
