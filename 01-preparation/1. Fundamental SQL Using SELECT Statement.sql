@@ -1,79 +1,79 @@
 -- Profil Pemateri: Trisna Yulia Junita, Data Scientist, PT. BUMA
 
---- Contoh query atau perintah untuk mengambil data:
+-- Contoh query atau perintah untuk mengambil data:
 SELECT nama_produk FROM ms_produk;
 
---- Mengambil Satu Kolom dari Tabel
+-- Mengambil Satu Kolom dari Tabel
 SELECT nama_kolom FROM nama_tabel;
 
---- Mengambil Lebih dari Satu Kolom (x>1) dari Tabel
+-- Mengambil Lebih dari Satu Kolom (x>1) dari Tabel
 SELECT nama_kolom1, nama_kolom2 FROM nama_tabel;
 
---- Menampilkan kode dan nama produk: 
+-- Menampilkan kode dan nama produk: 
 SELECT kode_produk, nama_produk FROM ms_produk;
 
---- Menampilkan nama dan harga produk: 
+-- Menampilkan nama dan harga produk: 
 SELECT nama_produk, harga FROM ms_produk;
 
---- Membatasi Pengambilan Jumlah Row Data
+-- Membatasi Pengambilan Jumlah Row Data
 SELECT nama_kolom FROM nama_tabel LIMIT n;
 
---- Batas 3 baris: 
+-- Batas 3 baris: 
 SELECT nama_produk FROM ms_produk LIMIT 3;
 
---- 5 data teratas nama dan harga: 
+-- 5 data teratas nama dan harga: 
 SELECT nama_produk, harga FROM ms_produk LIMIT 5;
 
---- 4 baris data untuk seluruh kolom: 
+-- 4 baris data untuk seluruh kolom: 
 SELECT * FROM ms_produk LIMIT 4;
 
---- Penggunaan SELECT DISTINCT statement (Menghilangkan Data Duplikasi)
---- mengambil data dari tabel ms_pelanggan: 
+-- Penggunaan SELECT DISTINCT statement (Menghilangkan Data Duplikasi)
+-- mengambil data dari tabel ms_pelanggan: 
 SELECT * FROM ms_pelanggan;
 SELECT DISTINCT kolom1, kolom2, ... FROM nama_tabel;
 
---- Tugas
+-- Tugas
 SELECT DISTINCT nama_customer, alamat FROM ms_pelanggan
 
---- Prefix dan Alias
+-- Prefix dan Alias
 SELECT t1.kode_produk AS product_code, t1.nama_produk AS product_name, t1.harga AS price FROM ms_produk AS t1;
 
---- Mengambil nama kolom nama_produk data dari tabel ms_produk dengan penulisan prefix nama tabel:
+-- Mengambil nama kolom nama_produk data dari tabel ms_produk dengan penulisan prefix nama tabel:
 SELECT ms_produk.nama_produk FROM ms_produk;
 
---- Tugas
+-- Tugas
 SELECT ms_produk.kode_produk FROM ms_produk;
 
---- Mengubah nama kolom dari kode_produk menjadi product_code dari table ms_produk:
+-- Mengubah nama kolom dari kode_produk menjadi product_code dari table ms_produk:
 SELECT kode_produk AS product_code FROM ms_produk;
 
---- Tugas
+-- Tugas
 SELECT no_urut AS nomor, nama_produk AS nama FROM ms_produk;
 
---- Menghilangkan Keyword 'AS'
+-- Menghilangkan Keyword 'AS'
 SELECT nama_kolom nama_kolom_baru FROM nama_tabel
 
---- Mengubah nama kolom dari kode_produk menjadi product_code dari tabel ms_produk tanpa menggunakan alias
+-- Mengubah nama kolom dari kode_produk menjadi product_code dari tabel ms_produk tanpa menggunakan alias
 SELECT kode_produk product_code FROM ms_produk;
 
---- Tugas
+-- Tugas
 SELECT no_urut nomor, nama_produk nama FROM ms_produk;
 
---- Menggabungkan Prefix dan Alias
+-- Menggabungkan Prefix dan Alias
 SELECT nama_tabel.nama_kolom AS nama_kolom_baru FROM nama_tabel;
 SELECT ms_produk.nama_produk AS nama FROM ms_produk;
 
---- Tugas
+-- Tugas
 SELECT ms_produk.harga AS harga_jual FROM ms_produk;
 
---- Menggunakan Alias pada Tabel
+-- Menggunakan Alias pada Tabel
 SELECT nama_kolom FROM nama_tabel AS nama_tabel_baru;
 SELECT * FROM ms_produk AS t1;
 
---- Tugas
+-- Tugas
 SELECT * FROM ms_produk t2;
 
---- Prefix dengan Alias Tabel
+-- Prefix dengan Alias Tabel
 SELECT tbl.nama_kolom FROM nama_tabel AS tbl;
 SELECT t1.kode_produk, t1.nama_produk FROM ms_produk AS t1;
 SELECT t1.kode_produk AS product_code, t1.nama_produk AS product_name FROM ms_produk AS t1;
