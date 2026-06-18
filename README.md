@@ -1,11 +1,13 @@
 # sql-playground
 My SQL learning journey since April 2026
 
+
 This overview contains:
 1. INTRODUCTION
 2. WHY SQL?
 3. CERTIFICATES OF COMPLETION
 4. CONTACT
+
 
 -- 1. INTRODUCTION --
 
@@ -26,6 +28,7 @@ This GitHub repository is the collection of what I've got so far. Usually, I use
 
 Hopefully, I can update this repository along the way. Thank you for being one of my witnesses. Wish you so many great things in life!
 
+
 -- 2. WHY SQL? --
 
 SQL is a very essential programming language, especially for databases. Without SQL, we can't store our data and build a strong infrastructure such as data pipelines. 
@@ -33,6 +36,7 @@ SQL is a very essential programming language, especially for databases. Without 
 Although it's very important for data engineers, data analysts also need to master it. Think of data storage as a library full of cryptic codes; it's a job for data analysts to gather information and translate it so the people can understand.
 
 It's common knowledge that companies continue to digitalize their data. Business is filled with data-driven decision-making. Artificial Intelligence (AI) transforms our lives. But there is no AI strategy without a data strategy. Clean data is crucial. It all starts with a row of SQL code. 
+
 
 -- 3. CERTIFICATES OF COMPLETION --
 1. [Anastasya Pratiwi_Database - SQL Track.pdf](https://github.com/user-attachments/files/29105240/Anastasya.Pratiwi_Database.-.SQL.Track.pdf)
@@ -47,5 +51,6 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 -- 4. CONTACT --
 
-~ Email: mailto: anastasyapratiwi.work@egmail.com
+~ Email: anastasyapratiwi.work@egmail.com
+
 ~ LinkedIn: https://www.linkedin.com/in/anastasyapratiwi
