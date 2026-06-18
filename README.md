@@ -11,7 +11,7 @@ This overview contains:
 
 -- 1. INTRODUCTION --
 
-Hello everyone, my name is Anastasya Pratiwi.People around me usually call me Tasya. My nationality is Indonesian. I'm a food technology graduate and writer.
+Hello everyone, my name is Anastasya Pratiwi. People around me usually call me Tasya. My nationality is Indonesian. I'm a food technology graduate and writer.
 
 The reason I discovered SQL might differ from most people.
 
