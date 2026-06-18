@@ -51,6 +51,6 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 -- 4. CONTACT --
 
-~ Email: anastasyapratiwi.work@egmail.com
+~ Email: anastasyapratiwi.work@gmail.com
 
 ~ LinkedIn: https://www.linkedin.com/in/anastasyapratiwi
