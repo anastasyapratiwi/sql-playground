@@ -47,13 +47,13 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 <img width="2339" height="1654" alt="Anastasya Pratiwi_SQL Database Management-1" src="https://github.com/user-attachments/assets/51608624-e1c7-42c0-8adf-2ecb236dadc2" />
 
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Fundamental SQL Using FUNCTION and GROUP BY-1" src="https://github.com/user-attachments/assets/bd02e600-f570-4e62-8700-277904b7312f" />
 
-4. [Anastasya Pratiwi_SQL Database Management.pdf](https://github.com/user-attachments/files/29105340/Anastasya.Pratiwi_SQL.Database.Management.pdf)
-5. [Anastasya Pratiwi_Fundamental SQL Using FUNCTION and GROUP BY.pdf](https://github.com/user-attachments/files/29105364/Anastasya.Pratiwi_Fundamental.SQL.Using.FUNCTION.and.GROUP.BY.pdf)
-7. [Anastasya Pratiwi_Fundamental SQL Using INNER JOIN and UNION.pdf](https://github.com/user-attachments/files/29105373/Anastasya.Pratiwi_Fundamental.SQL.Using.INNER.JOIN.and.UNION.pdf)
-   
-9. [Anastasya Pratiwi_Fundamental SQL Group By and Having.pdf](https://github.com/user-attachments/files/29105392/Anastasya.Pratiwi_Fundamental.SQL.Group.By.and.Having.pdf)
-10. [Anastasya Pratiwi_Mengolah Data Teks Dasar pada MySQL.pdf](https://github.com/user-attachments/files/29105717/Anastasya.Pratiwi_Mengolah.Data.Teks.Dasar.pada.MySQL.pdf)
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Fundamental SQL Using INNER JOIN and UNION-1" src="https://github.com/user-attachments/assets/791d78d0-6ca1-45a3-bdaf-189756889319" />
+
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Fundamental SQL Group By and Having-1" src="https://github.com/user-attachments/assets/93e6405f-8124-4e97-b2dc-19a978367e9b" />
+
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Mengolah Data Teks Dasar pada MySQL-1" src="https://github.com/user-attachments/assets/b7c27780-2995-4a37-87cd-d598fa30fa08" />
 
 
 -- 4. CONTACT --
