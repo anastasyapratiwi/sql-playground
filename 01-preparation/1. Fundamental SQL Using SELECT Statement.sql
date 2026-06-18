@@ -1,15 +1,6 @@
--- Profil Pemateri
-/* Trisna Yulia Junita
-Data Scientist
-PT. BUMA
+-- Profil Pemateri: Trisna Yulia Junita, Data Scientist, PT. BUMA
 
--- Ini komentar satu baris: Fundamental SQL Using SELECT Statement
-
-/* Komentar ini bisa banyak baris.
-SQL adalah bahasa pemograman untuk pengolahan database. 
-Fungsinya untuk memperbarui, membuat tabel, prosedur
-
--- contoh query atau perintah untuk mengambil data:
+--- Contoh query atau perintah untuk mengambil data:
 SELECT nama_produk FROM ms_produk;
 
 --- Mengambil Satu Kolom dari Tabel
@@ -42,11 +33,7 @@ SELECT * FROM ms_pelanggan;
 SELECT DISTINCT kolom1, kolom2, ... FROM nama_tabel;
 
 --- Tugas
-/* Tampilkan nama_customer dan alamat dari tabel ms_pelanggan
-dan hilangkan data duplikat.
-
 SELECT DISTINCT nama_customer, alamat FROM ms_pelanggan
-
 
 --- Prefix dan Alias
 SELECT t1.kode_produk AS product_code, t1.nama_produk AS product_name, t1.harga AS price FROM ms_produk AS t1;
@@ -55,18 +42,12 @@ SELECT t1.kode_produk AS product_code, t1.nama_produk AS product_name, t1.harga 
 SELECT ms_produk.nama_produk FROM ms_produk;
 
 --- Tugas
-/* Menampilkan kolom kode_produk dari tabel ms_produk dengan penulisan menggunakan prefix nama tabel
-
 SELECT ms_produk.kode_produk FROM ms_produk;
 
 --- Mengubah nama kolom dari kode_produk menjadi product_code dari table ms_produk:
 SELECT kode_produk AS product_code FROM ms_produk;
 
 --- Tugas
-/* ubah perintah SELECT di atas untuk mengubah nama kolom dengan details berikut:
-no_urut menjadi nomor.
-nama_produk menjadi nama
-
 SELECT no_urut AS nomor, nama_produk AS nama FROM ms_produk;
 
 --- Menghilangkan Keyword 'AS'
@@ -76,10 +57,6 @@ SELECT nama_kolom nama_kolom_baru FROM nama_tabel
 SELECT kode_produk product_code FROM ms_produk;
 
 --- Tugas
-/* Ubah nama kolom dari tabel ms_produk tanpa menggunakan Alias:
-no_urut menjadi nomor.
-nama_produk menjadi nama
-
 SELECT no_urut nomor, nama_produk nama FROM ms_produk;
 
 --- Menggabungkan Prefix dan Alias
@@ -87,8 +64,6 @@ SELECT nama_tabel.nama_kolom AS nama_kolom_baru FROM nama_tabel;
 SELECT ms_produk.nama_produk AS nama FROM ms_produk;
 
 --- Tugas
-/* Tampilkan kolom harga dari tabel ms_produk dengan nama alias harga_jual lengkap dengan prefix
-
 SELECT ms_produk.harga AS harga_jual FROM ms_produk;
 
 --- Menggunakan Alias pada Tabel
@@ -96,8 +71,6 @@ SELECT nama_kolom FROM nama_tabel AS nama_tabel_baru;
 SELECT * FROM ms_produk AS t1;
 
 --- Tugas
-/* Ganti nama tabel ms_produk menjadi t2 dan tampilkan seluruh isinya tanpa menggunakan keyword AS
-
 SELECT * FROM ms_produk t2;
 
 --- Prefix dengan Alias Tabel
@@ -106,16 +79,12 @@ SELECT t1.kode_produk, t1.nama_produk FROM ms_produk AS t1;
 SELECT t1.kode_produk AS product_code, t1.nama_produk AS product_name FROM ms_produk AS t1;
 
 --- Tugas
-/* Gantilah perintah pada code editor dengan nama alias t2 - tanpa menggunakan keyword AS - untuk tabel ms_produk
-dan menampilkan kolom nama_produk dan harga, lengkap dengan prefix alias.
-
 SELECT t2.nama_produk, t2.harga FROM ms_produk t2;
 
 --- Menggunakan WHERE
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab';
 
 --- Tugas
-/* ubah perintah SELECT pada code editor untuk mengeluarkan data dengan nama_produk bernilai 'Tas Travel Organizer DQLab'
 SELECT * FROM ms_produk WHERE nama_produk = 'Tas Travel Organizer DQLab';
 
 --- Menggunakan Operand OR
@@ -123,21 +92,15 @@ SELECT nama_kolom FROM nama_tabel WHERE kondisi1 OR kondisi2;
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab' OR nama_produk = 'Tas Travel Organizer DQLab';
 
 --- Tugas
-/* Tambahkan nama_produk 'Flashdisk DQLab 64 GB' ke dalam tabel
-
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab' OR nama_produk = 'Tas Travel Organizer DQLab' OR nama_produk = 'Flashdisk DQLab 64 GB';
 
 --- Filter untuk Angka
 SELECT * FROM ms_produk WHERE harga < 50000;
 
 --- Tugas
-/* Tampilkan informasi dengan harga diatas 50000
-
 SELECT * FROM ms_produk WHERE harga > 50000;
 
 --- Menggunakan Operand AND
-/* agar dua atau lebih kondisi terpenuhi semuanya. Jika salah satu kondisi tidak terpenuhi, data tidak akan diambil.
-
 SELECT nama_kolom FROM nama_tabel WHERE kondisi1 AND kondisi2;
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab' AND harga > 50000;
 
@@ -148,3 +111,5 @@ SELECT * FROM ms_produk  WHERE nama_produk = 'Gantungan Kunci DQLab' AND harga <
 --- Pengerjaan
 SELECT kode_pelanggan, nama_produk, qty, harga, qty * harga AS total FROM tr_penjualan WHERE (qty * harga) >= 100000 ORDER BY total DESC;
 
+--- Note: For my certificates of completion, check README.md
+--- Thank you.
