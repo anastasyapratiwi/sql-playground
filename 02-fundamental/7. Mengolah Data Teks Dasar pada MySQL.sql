@@ -42,7 +42,7 @@ SELECT CHAR(66) -- Hasilnya : B
 SELECT HEX(157) -- Hasilnya : 9D
 SELECT HEX(‘Q’) -- Hasilnya : 51
 
-d. BIN(angka)
+-- d. BIN(angka)
 SELECT BIN(8) -- Hasil nya : 1000
 
 -- Mengenal Fungsi Operasi Teks Lanjutan
