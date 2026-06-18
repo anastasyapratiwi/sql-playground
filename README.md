@@ -22,6 +22,7 @@ Until this day, I'm still grateful that I achieved 4 Northstar badges:
 2. Building Intelligent Data Application with Snowflake
 3. Creating Declarative Data Pipelines with Dynamic Tables
 4. From Zero to Agents: Building End-To-End Data Pipelines for an AI Agent
+
 You can check the official credentials here: https://developerbadges.snowflake.com/profile/anastasyapratiwi/wallet.
 
 This GitHub repository is the collection of what I've got so far. Usually, I use VS Code. At the time I was writing this (June 2026), GitHub is still a new place and environment for me. I can say the same thing about coding. Challenging, imperfect — but on top of all that, it's an incredible journey.
