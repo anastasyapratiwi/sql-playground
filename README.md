@@ -46,7 +46,7 @@ It's common knowledge that companies continue to digitalize their data. Business
 5. [Anastasya Pratiwi_Fundamental SQL Using FUNCTION and GROUP BY.pdf](https://github.com/user-attachments/files/29105364/Anastasya.Pratiwi_Fundamental.SQL.Using.FUNCTION.and.GROUP.BY.pdf)
 6. [Anastasya Pratiwi_Fundamental SQL Using INNER JOIN and UNION.pdf](https://github.com/user-attachments/files/29105373/Anastasya.Pratiwi_Fundamental.SQL.Using.INNER.JOIN.and.UNION.pdf)
 7. [Anastasya Pratiwi_Fundamental SQL Group By and Having.pdf](https://github.com/user-attachments/files/29105392/Anastasya.Pratiwi_Fundamental.SQL.Group.By.and.Having.pdf)
-8. [Anastasya Pratiwi_Mengolah Data Teks Unstructured dengan REGEX pada SQL.pdf](https://github.com/user-attachments/files/29105404/Anastasya.Pratiwi_Mengolah.Data.Teks.Unstructured.dengan.REGEX.pada.SQL.pdf)
+8. [Anastasya Pratiwi_Mengolah Data Teks Dasar pada MySQL.pdf](https://github.com/user-attachments/files/29105717/Anastasya.Pratiwi_Mengolah.Data.Teks.Dasar.pada.MySQL.pdf)
 
 
 -- 4. CONTACT --
