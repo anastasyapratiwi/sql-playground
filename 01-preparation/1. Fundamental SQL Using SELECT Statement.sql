@@ -12,10 +12,6 @@ Fungsinya untuk memperbarui, membuat tabel, prosedur
 -- contoh query atau perintah untuk mengambil data:
 SELECT nama_produk FROM ms_produk;
 
-/* sistem database akan mengerti bahwa ‘dia’ harus 
-menampilkan data ‘nama_produk’
-dari suatu tabel yang namanya ‘ms_produk'
-
 --- Mengambil Satu Kolom dari Tabel
 SELECT nama_kolom FROM nama_tabel;
 
@@ -151,3 +147,4 @@ SELECT * FROM ms_produk  WHERE nama_produk = 'Gantungan Kunci DQLab' AND harga <
 --- Mini Project (proyek baru dari cabang A)
 --- Pengerjaan
 SELECT kode_pelanggan, nama_produk, qty, harga, qty * harga AS total FROM tr_penjualan WHERE (qty * harga) >= 100000 ORDER BY total DESC;
+
