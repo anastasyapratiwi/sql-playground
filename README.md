@@ -46,5 +46,6 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 
 -- 4. CONTACT --
-[![Email](https://shields.io)](mailto:anastasyapratiwi.work@egmail.com)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/anastasyapratiwi/)
+
+~ Email: mailto: anastasyapratiwi.work@egmail.com
+~ LinkedIn: https://www.linkedin.com/in/anastasyapratiwi
