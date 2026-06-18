@@ -24,9 +24,9 @@ Hopefully, I can update this repository along the way. Thank you for being one o
 -- 2. WHY SQL? --
 SQL is a very essential programming language, especially for database. Without SQL, we can't store our data and build a strong infrastructure such as data pipelines. 
 
-Although it's very important for data engineers, data analysts also need to master it. Think the data storage as a library full of cryptic codes, it's the job of data analysts to  gather informations and translate it for the people to understand.
+Although it's very important for data engineers, data analysts also need to master it. Think the data storage as a library full of cryptic codes, it's a job for data analysts to  gather informations and translate it so the people can understand.
 
-Companies continue to digitalize their data. Artificial Intelligence (AI) transform our lives. But there is no AI strategy, without data strategy. Clean data is crucial. All starts with a row of SQL code. 
+It's a common knowledge that companies continue to digitalize their data. Artificial Intelligence (AI) transforms our lives. But there is no AI strategy, without data strategy. Clean data is crucial. All starts with a row of SQL code. 
 
 -- 3. CERTIFICATES OF COMPLETION --
 
