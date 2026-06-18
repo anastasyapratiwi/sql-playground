@@ -15,7 +15,12 @@ The reason I discovered SQL might differ from most people.
 
 At first, I learned SQL to attend Snowflake's Data For Breakfast Asia Pacific 2026 event back in April. It was my first-ever English-speaking webinar and a turning point that gave me amazing insights about how the data world works.
 
-Until this day, I'm still grateful that I achieved 4 Northstar badges. You can check the official credentials here: a
+Until this day, I'm still grateful that I achieved 4 Northstar badges:
+1. Northstar - Data Ingestion, Transformation, and Delivery with Snowflake
+2. Building Intelligent Data Application with Snowflake
+3. Creating Declarative Data Pipelines with Dynamic Tables
+4. From Zero to Agents: Building End-To-End Data Pipelines for an AI Agent
+You can check the official credentials here: https://developerbadges.snowflake.com/profile/anastasyapratiwi/wallet.
 
 This GitHub repository is the collection of what I've got so far. Usually, I use VS Code. At the time I was writing this (June 2026), GitHub is still a new place and environment for me. I can say the same thing about coding. Challenging, imperfect — but on top of all that, it's an incredible journey.
 
@@ -30,5 +35,7 @@ Although it's very important for data engineers, data analysts also need to mast
 It's common knowledge that companies continue to digitalize their data. Business is filled with data-driven decision-making. Artificial Intelligence (AI) transforms our lives. But there is no AI strategy without a data strategy. Clean data is crucial. It all starts with a row of SQL code. 
 
 -- 3. CERTIFICATES OF COMPLETION --
+1. [Anastasya Pratiwi_Database - SQL Track.pdf](https://github.com/user-attachments/files/29105240/Anastasya.Pratiwi_Database.-.SQL.Track.pdf)
+
 
 -- 4. MY SOCIALS --
