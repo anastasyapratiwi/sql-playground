@@ -2,7 +2,7 @@
 
 --- Chapter 1: Apa Itu Database? Apakah Sama dengan Excel?
 --- 🎯 Tujuan Pembelajaran:
-/* 1. Memahami konsep dasar relational database management system (RDBMS) dan bagaimana perbedaannya dengan spreadsheet seperti Excel.
+1. Memahami konsep dasar relational database management system (RDBMS) dan bagaimana perbedaannya dengan spreadsheet seperti Excel.
 2. Instalasi serta akses MySQL dan phpMyAdmin di XAMPP
 3. Mengetahui kegunaan MySQL dan phpMyAdmin.
 4. Membuat dan menghapus database di phpMyAdmin
@@ -87,9 +87,11 @@ INSERT INTO order_items (order_id, product_id, quantity, price) VALUES ('4', '4'
 INSERT INTO order_items (order_id, product_id, quantity, price) VALUES ('5', '5', '4', '50000');
 
 --- Query JOIN untuk Menampilkan Informasi
-/* SELECT v.name AS vendor_name, p.name AS product_name, oi.quantity
+SELECT v.name AS vendor_name, p.name AS product_name, oi.quantity
 FROM order_items oi
 JOIN orders o ON oi.order_id = o.order_id
 JOIN vendors v ON o.vendor_id = v.vendor_id
 JOIN products p ON oi.product_id = p.product_id;
 
+--- Note: For my certificates of completion, check README.md
+--- Thank you.
