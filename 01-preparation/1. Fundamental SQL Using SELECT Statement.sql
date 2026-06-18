@@ -78,38 +78,38 @@ SELECT tbl.nama_kolom FROM nama_tabel AS tbl;
 SELECT t1.kode_produk, t1.nama_produk FROM ms_produk AS t1;
 SELECT t1.kode_produk AS product_code, t1.nama_produk AS product_name FROM ms_produk AS t1;
 
---- Tugas
+-- Tugas
 SELECT t2.nama_produk, t2.harga FROM ms_produk t2;
 
---- Menggunakan WHERE
+-- Menggunakan WHERE
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab';
 
---- Tugas
+-- Tugas
 SELECT * FROM ms_produk WHERE nama_produk = 'Tas Travel Organizer DQLab';
 
---- Menggunakan Operand OR
+-- Menggunakan Operand OR
 SELECT nama_kolom FROM nama_tabel WHERE kondisi1 OR kondisi2;
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab' OR nama_produk = 'Tas Travel Organizer DQLab';
 
---- Tugas
+-- Tugas
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab' OR nama_produk = 'Tas Travel Organizer DQLab' OR nama_produk = 'Flashdisk DQLab 64 GB';
 
---- Filter untuk Angka
+-- Filter untuk Angka
 SELECT * FROM ms_produk WHERE harga < 50000;
 
---- Tugas
+-- Tugas
 SELECT * FROM ms_produk WHERE harga > 50000;
 
---- Menggunakan Operand AND
+-- Menggunakan Operand AND
 SELECT nama_kolom FROM nama_tabel WHERE kondisi1 AND kondisi2;
 SELECT * FROM ms_produk WHERE nama_produk = 'Gantungan Kunci DQLab' AND harga > 50000;
 
---- Tugas
+-- Tugas
 SELECT * FROM ms_produk  WHERE nama_produk = 'Gantungan Kunci DQLab' AND harga < 50000;
 
---- Mini Project (proyek baru dari cabang A)
---- Pengerjaan
+-- Mini Project (proyek baru dari cabang A)
+-- Pengerjaan
 SELECT kode_pelanggan, nama_produk, qty, harga, qty * harga AS total FROM tr_penjualan WHERE (qty * harga) >= 100000 ORDER BY total DESC;
 
---- Note: For my certificates of completion, check README.md
---- Thank you.
+-- Note: For my certificates of completion, check README.md
+-- Thank you.
