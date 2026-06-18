@@ -3,8 +3,9 @@ My SQL learning journey since April 2026
 
 This overview contains:
 1. INTRODUCTION
-2. CERTIFICATES OF COMPLETION
-3. MY SOCIALS
+2. WHY SQL?
+3. CERTIFICATES OF COMPLETION
+4. MY SOCIALS
 
 -- 1. INTRODUCTION --
 Hello everyone, my name is Anastasya Pratiwi.
@@ -20,6 +21,13 @@ This Github repository is the collection of what I've got so far. Usually, I use
 
 Hopefully, I can update this repository along the way. Thank you for being one of my witnesses. Wish you so many great things in life!
 
--- 2. CERTIFICATES OF COMPLETION --
+-- 2. WHY SQL? --
+SQL is a very essential programming language, especially for database. Without SQL, we can't store our data and build a strong infrastructure such as data pipelines. 
 
--- 3. MY SOCIALS --
+Although it's very important for data engineers, data analysts also need to master it. Think the data storage as a library full of cryptic codes, it's the job of data analysts to  gather informations and translate it for the people to understand.
+
+Companies continue to digitalize their data. Artificial Intelligence (AI) transform our lives. But there is no AI strategy, without data strategy. Clean data is crucial. All starts with a row of SQL code. 
+
+-- 3. CERTIFICATES OF COMPLETION --
+
+-- 4. MY SOCIALS --
