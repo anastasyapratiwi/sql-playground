@@ -1,13 +1,15 @@
---- Profile Pemateri: XERATIC
+-- Profile Pemateri: XERATIC
 
---- Chapter 1: Apa Itu Database? Apakah Sama dengan Excel?
---- 🎯 Tujuan Pembelajaran:
+-- Chapter 1: Apa Itu Database? Apakah Sama dengan Excel?
+-- 🎯 Tujuan Pembelajaran:
+/* 
 1. Memahami konsep dasar relational database management system (RDBMS) dan bagaimana perbedaannya dengan spreadsheet seperti Excel.
 2. Instalasi serta akses MySQL dan phpMyAdmin di XAMPP
 3. Mengetahui kegunaan MySQL dan phpMyAdmin.
 4. Membuat dan menghapus database di phpMyAdmin
+*/
 
---- Langkah - Langkah Pembuatan tabel (via tab SQL)
+-- Langkah - Langkah Pembuatan tabel (via tab SQL)
 CREATE TABLE vendors(
     vendor_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
@@ -20,7 +22,7 @@ CREATE TABLE products(
     category VARCHAR(50)
 );
 
---- Mengenal Relasi dan Foreign Key
+-- Mengenal Relasi dan Foreign Key
 CREATE TABLE orders (
     order_id INT AUTO_INCREMENT PRIMARY KEY,
     vendor_id INT,
@@ -29,7 +31,7 @@ CREATE TABLE orders (
     FOREIGN KEY (vendor_id) REFERENCES vendors(vendor_id)
 );
 
---- Relasi Banyak ke Banyak (Many-to-Many)
+-- Relasi Banyak ke Banyak (Many-to-Many)
 CREATE TABLE order_items (
     order_id INT,
     product_id INT,
@@ -40,12 +42,12 @@ CREATE TABLE order_items (
     FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
 
---- Menambahkan Validasi dan Aturan Data
+-- Menambahkan Validasi dan Aturan Data
 ALTER TABLE vendors MODIFY name VARCHAR(100) NOT NULL;
 
 ALTER TABLE order_items ADD CHECK (quantity > 0);
 
---- Uji Coba – Input & Query Data
+-- Uji Coba – Input & Query Data
 INSERT INTO vendors (name, address)
 VALUES ('PT Furniture Sejah Tera', 'Jl. Jakarta');
 INSERT INTO vendors (name, address)
@@ -86,12 +88,12 @@ INSERT INTO order_items (order_id, product_id, quantity, price) VALUES ('3', '3'
 INSERT INTO order_items (order_id, product_id, quantity, price) VALUES ('4', '4', '1', '20000');
 INSERT INTO order_items (order_id, product_id, quantity, price) VALUES ('5', '5', '4', '50000');
 
---- Query JOIN untuk Menampilkan Informasi
+-- Query JOIN untuk Menampilkan Informasi
 SELECT v.name AS vendor_name, p.name AS product_name, oi.quantity
 FROM order_items oi
 JOIN orders o ON oi.order_id = o.order_id
 JOIN vendors v ON o.vendor_id = v.vendor_id
 JOIN products p ON oi.product_id = p.product_id;
 
---- Note: For my certificates of completion, check README.md
---- Thank you.
+-- Note: For my certificates of completion, check README.md
+-- Thank you.
