@@ -8,6 +8,7 @@ This overview contains:
 4. MY SOCIALS
 
 -- 1. INTRODUCTION --
+
 Hello everyone, my name is Anastasya Pratiwi.People around me usually call me Tasya. My nationality is Indonesian. I'm a food technology graduate and writer.
 
 The reason I discovered SQL might differ from most people.
@@ -21,6 +22,7 @@ This GitHub repository is the collection of what I've got so far. Usually, I use
 Hopefully, I can update this repository along the way. Thank you for being one of my witnesses. Wish you so many great things in life!
 
 -- 2. WHY SQL? --
+
 SQL is a very essential programming language, especially for databases. Without SQL, we can't store our data and build a strong infrastructure such as data pipelines. 
 
 Although it's very important for data engineers, data analysts also need to master it. Think of data storage as a library full of cryptic codes; it's a job for data analysts to gather information and translate it so the people can understand.
