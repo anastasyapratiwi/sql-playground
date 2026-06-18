@@ -163,3 +163,6 @@ CASE
     ELSE 'Medium'  
 END as kategori 
 FROM tr_penjualan;
+
+-- Note: For my certificates of completion, check README.md
+-- Thank you.
