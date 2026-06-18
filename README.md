@@ -39,6 +39,9 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 
 -- 3. CERTIFICATES OF COMPLETION --
+<img width="2339" height="1654" alt="Anastasya Pratiwi_Database - SQL Track-1" src="https://github.com/user-attachments/assets/fefeeacf-3d8b-4d32-ad44-6817a40399ce" />
+
+
 1. [Anastasya Pratiwi_Database - SQL Track.pdf](https://github.com/user-attachments/files/29105240/Anastasya.Pratiwi_Database.-.SQL.Track.pdf)
 2. [Anastasya Pratiwi_Fundamental SQL Using SELECT Statement.pdf](https://github.com/user-attachments/files/29105318/Anastasya.Pratiwi_Fundamental.SQL.Using.SELECT.Statement.pdf)
 3. [Anastasya Pratiwi_Mengolah Data Teks Unstructured dengan REGEX pada SQL.pdf](https://github.com/user-attachments/files/29105321/Anastasya.Pratiwi_Mengolah.Data.Teks.Unstructured.dengan.REGEX.pada.SQL.pdf)
