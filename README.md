@@ -40,6 +40,7 @@ It's common knowledge that companies continue to digitalize their data. Business
 
 
 -- 3. CERTIFICATES OF COMPLETION --
+
 Platform: DQLab (https://dqlab.id/)
 
 <img width="2339" height="1654" alt="Anastasya Pratiwi_Database - SQL Track-1" src="https://github.com/user-attachments/assets/fefeeacf-3d8b-4d32-ad44-6817a40399ce" />
