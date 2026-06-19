@@ -95,3 +95,6 @@ SELECT product_id, AVG(pinalty) AS total FROM invoice GROUP BY product_id HAVING
 
 -- Mini Quiz
 SELECT product_id, AVG(pinalty), COUNT(customer_id) AS total FROM invoice GROUP BY product_id HAVING COUNT(customer_id) > 20;
+
+-- Note: For my certificates of completion, check README.md
+-- Thank you.
