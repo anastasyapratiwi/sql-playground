@@ -110,7 +110,7 @@ INNER JOIN
 -- OUTER JOIN
 SELECT `tabel1`.`field_1`, …, `field_n` FROM `namatabel1`
 OUTER JOIN 
-namatabel2` ON (`namatabel2`.`field_relasi` = `namatabel1`.`field_relasi`);
+`namatabel2` ON (`namatabel2`.`field_relasi` = `namatabel1`.`field_relasi`);
 
 -- LEFT JOIN
 SELECT `tabel1`.`field_1`, …, `field_n` FROM `namatabel1`
@@ -253,3 +253,6 @@ ELSE '00'
 END, 
 RIGHT(SUBSTR(isi, LOCATE('|||', isi, LOCATE('|||', isi) + 1) + 3, LOCATE('|||', isi, LOCATE('|||', isi, LOCATE('|||', isi) + 1) + 1) - LOCATE('|||', isi, LOCATE('|||', isi) + 1) - 3), 4)) as TanggalLahir
 FROM dqlabdatateks;
+
+-- Note: For my certificates of completion, check README.md
+-- Thank you.
